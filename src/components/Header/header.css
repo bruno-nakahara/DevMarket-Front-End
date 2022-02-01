@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+}
+
+.img-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.logo-name {
+    font-size: 2rem;
+    color: #ffa300;
+}
+
+.logo-name span {
+    font-size: 2rem;
+    color: #ff8500;
+}

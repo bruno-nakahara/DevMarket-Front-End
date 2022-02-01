@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --red: #F54A48;
+    --orange: #FA982F;
+    --black: #3C3C3C;
+    --gray: #A2A2A2;
+    --gray-dark: #7C7C7C;
+    --white: #FFFFFF;
+    --green: #34C38F;
+    --green-hover: #22966b;
+    --red-hover: #DF3938;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+.container {
+    width: 700px;
+
+    margin: 30px auto;
+}
+
+
+
+
+
