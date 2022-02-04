@@ -35,4 +35,4 @@ $ yarn start
 # e pronto! Front-end da Aplicação rodando.
 
 ```
-<p>Caso necessita mudar a porta 80 e host "http://127.0.0.1:80" que o react utiliza por default  para fazer fetch, abra a pasta "src/contexts/" no arquivo "ProductsContext.tsx" muda a porta/host do fetch</p>
+<p>Caso necessita mudar a porta 80 e host "http://127.0.0.1:80" que o react utiliza por default  para fazer fetch, abra a pasta "src/contexts/" no arquivo "ProductsContext.tsx" muda a url do fetch</p>
